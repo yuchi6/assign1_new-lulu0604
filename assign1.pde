@@ -27,7 +27,7 @@ void draw() {
   image(lifeImg,150,10);//設定士兵生命圖3座標
   image(soldierImg, x, 160);//設定士兵圖座標
   image(groundhogImg,320,80);//設定土撥鼠圖座標
-  image(robotImg, 240-80x, );//設定機器人圖座標
+  image(robotImg, 240,240 );//設定機器人圖座標
   
   strokeWeight(10.0);//雷射光寬度
   strokeCap(ROUND);
